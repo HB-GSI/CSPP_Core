@@ -1,0 +1,12 @@
+Change Log for the CS++ Project - 7-June-2013
+=================================================
+This change log is meant for logging changes of ongoing developments.
+
+If you like to contribute, please add your comments below your own email address.
+
+H.Brand@gsi.de
+==============
+
+
+D.Neidherr@gsi.de
+==============
