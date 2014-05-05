@@ -1,17 +1,13 @@
-This LabVIEW project "CS++.lvproj" is used to develop the successor of the CS Framework and is based on LVOOP and the Actor Framework.
+The LabVIEW project "CSPP_Core.lvproj" provides the CS++ core system, some libraries, classes and actors.
 
-- CS++ will be based on native LabVIEW classes and the Actor Framework.
-- CS++ will follow the KISS principle: "Keep It Smart & Simple"
+Refer to https://github.com/HB-GSI/CSPP for CS++ project overview, details and documentation.
 
-The project GIT workflow contains four branches: 
-- Preview: new ideas and prototypes
-- MainDev: main development line
-- RC: release candidates
-- master: released versions
+- CS++ is based on native LabVIEW classes and the Actor Framework.
+- CS++ follows the KISS principle: "Keep It Smart & Simple"
 
-Currently used development SW is LabVIEW 2013
+The project GIT workflow contains five branches: 
 
-Project is just started, so the most active branch is at the moment preview.
+LabVIEW 2013 is currently used development.
 
 Related documents and information
 =================================
@@ -19,11 +15,23 @@ Related documents and information
 - Release_Notes.txt
 - EUPL v.1.1 - Lizenz.pdf
 - Contact: H.Brand@gsi.de or D.Neidherr@gsi.de
-- Download, bug reports... : http://github.com/HB-GSI/CS++
+- Download, bug reports... : http://github.com/HB-GSI/CSPP_Core
 - Documentation:
-  - Refer to Documantation Folder 
+  - Refer to Documantation Folder
+  - Project-Wiki: https://github.com/HB-GSI/CSPP/wiki
   - NI Actor Framework: https://decibel.ni.com/content/groups/actor-framework-2011?view=overview
-  - CS Framework: http://wiki.gsi.de/cgi-bin/view/CSframework/WebHome
+
+You can use this package as GIT Submodule
+=================================
+Following git submodules are defined in the CS++ project.
+- Packages/CSPP_Core
+
+Optional submodules available:
+- Packages/CSPP_IVI: Implementations of CS++Device base classes using IVI driver
+- Packages/CSPP_DSC: containing Alarm- & Trend-Viewer
+- Packages/CSPP_DIM: Providing DIM for PV communication
+- Packages/CSPP_Examples
+- Packages/CSPP_DeviceBase
 
 External Dependencies
 =================================
@@ -31,13 +39,15 @@ External Dependencies
 - Monitored Actor; Refer to https://decibel.ni.com/content/thread/18301 and http://lavag.org/topic/17056-monitoring-actors
 
 Getting started:
-- Create a project specific copy of "CS++.lvproj"
-- CS++UserContents.vi; Include your project specific Content-VIs in a corresponding case of the conditional disable structure. This VI is included in the "Launch CS++StartActor.vi". This makes building an application convenient since the application builder can find all dependencies in the VI-Hierarchy.
-- You need to create your project specific ini-file.
+=================================
+- Create a project specific copy of "CSPP_Core.lvproj"
+  - or add CS++CoreContent.vi into your own LabVIEW project. You can drag the desired libraries from the dependencies into your virtual project folder structure.
+- CS++UserContents.vi; Include your project specific Content-VIs in a corresponding case of the conditional disable structure. This VI is included in the "CS++StartActor:Launch CS++StartActor.vi". This makes building an application convenient since the application builder can find all dependencies in the VI-Hierarchy.
+- You need to create your project specific ini-file, like "CSPP_Core.ini"
   - Sample ini-file should be available for all classes, either in the LV-Project or on disk in the corresponding class or package folder.
 - You need to create and deploy your project specific shared Variable libraries.
   - Sample shared Variable libraries should be available for all concerned classes on disk in the corresponding class or package folder.
-- Run "Launch CS++StartActor.vi
+- Run your project specific "CS++Main.vi" or "CS++StartActor:Launch CS++StartActor.vi"
 
 
 Author: H.Brand@gsi.de, D.Neidherr@gsi.de

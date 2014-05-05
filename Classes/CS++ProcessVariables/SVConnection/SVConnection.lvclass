@@ -43,15 +43,6 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Item Name="SVConnection.ctl" Type="Class Private Data" URL="SVConnection.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Open PV Connection.vi" Type="VI" URL="../Open PV Connection.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%H!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!;E"Q!"Y!!$%;1V-L+V"S&lt;W.F=X.798*J97*M:8-O&lt;(:M;7)55V:$&lt;WZO:7.U;7^O,GRW9WRB=X-!,U.4+SN1=G^D:8.T6G&amp;S;7&amp;C&lt;'6T,GRW&lt;'FC/F.71W^O&lt;G6D&gt;'FP&lt;CZM&gt;G.M98.T!"R!1!!"`````Q!%$F"7)%.P&lt;GZF9X2J&lt;WZT!!!71&amp;!!!Q!!!!%!!AB&amp;=H*P=C"*&lt;A!!%%!Q`````Q:4&gt;(*J&lt;G=!!"*!1!!"`````Q!("&amp;634(-!!#1!]!!%!!-!"1!'!!A$!!!I!!!.!A!!#1!!!!I!!!))!!!!!!%!#1!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1074278928</Property>
-	</Item>
 	<Item Name="Connect.vi" Type="VI" URL="../Connect.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'Z!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%R!=!!?!!!R'E.4+SN1=G^D:8.T6G&amp;S;7&amp;C&lt;'6T,GRW&lt;'FC&amp;&amp;.71W^O&lt;G6D&gt;'FP&lt;CZM&gt;G.M98.T!""16E.P&lt;GZF9X2J&lt;WYA&lt;X6U!!!L1"5!!Q&gt;"&lt;'RP&gt;W6E#&amp;*F=86J=G6E"%ZP&lt;G5!$&amp;&gt;S;82F)%&amp;D9W6T=Q!!+5!6!!-(17RM&lt;X&gt;F:!B3:8&amp;V;8*F:!2/&lt;WZF!!N3:7&amp;E)%&amp;D9W6T=Q!31&amp;!!!A!'!!='17.D:8.T!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%J!=!!?!!!R'E.4+SN1=G^D:8.T6G&amp;S;7&amp;C&lt;'6T,GRW&lt;'FC&amp;&amp;.71W^O&lt;G6D&gt;'FP&lt;CZM&gt;G.M98.T!!^16E.P&lt;GZF9X2J&lt;WYA;7Y!6!$Q!!Q!!Q!%!!1!"1!%!!1!#!!%!!E!"!!%!!I$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!,!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

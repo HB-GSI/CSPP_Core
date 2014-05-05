@@ -1,5 +1,0 @@
-- CS++UserContent.vi
-  - Remove project specific content-VIs.
-  - Set conditional disable symbol "BuildContent=Example"
-  - CS++Example.ini; check [CS++StartActor.StartActors]
-

@@ -49,6 +49,10 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
 	<Property Name="Serialized ACL" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
+	<Item Name="FGVs" Type="Folder">
+		<Item Name="FGV Actor Enqueuer.vi" Type="VI" URL="../FGV Actor Enqueuer.vi"/>
+		<Item Name="FGV PV Protocols.vi" Type="VI" URL="../FGV PV Protocols.vi"/>
+	</Item>
 	<Item Name="private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="FGV reentrant.vi" Type="VI" URL="../FGV reentrant.vi"/>
@@ -59,5 +63,4 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	</Item>
 	<Item Name="Boolean String to Boolean.vi" Type="VI" URL="../Boolean String to Boolean.vi"/>
 	<Item Name="Error Code to Error Cluster.vi" Type="VI" URL="../Error Code to Error Cluster.vi"/>
-	<Item Name="FGV Actor Enqueuer.vi" Type="VI" URL="../FGV Actor Enqueuer.vi"/>
 </Library>
