@@ -50,8 +50,11 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="Serialized ACL" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Messages" Type="Folder">
+		<Item Name="CS++AEUpdate Msg.lvclass" Type="LVClass" URL="../../CS++PVMonitor Messages/CS++AEUpdate Msg/CS++AEUpdate Msg.lvclass"/>
 		<Item Name="CS++PVUpdate Msg.lvclass" Type="LVClass" URL="../../CS++PVMonitor Messages/CS++PVUpdate Msg/CS++PVUpdate Msg.lvclass"/>
+		<Item Name="Register AEs Msg.lvclass" Type="LVClass" URL="../../CS++PVMonitor Messages/Register AEs Msg/Register AEs Msg.lvclass"/>
 		<Item Name="Register PVs Msg.lvclass" Type="LVClass" URL="../../CS++PVMonitor Messages/Register PVs Msg/Register PVs Msg.lvclass"/>
+		<Item Name="Unregister AEs Msg.lvclass" Type="LVClass" URL="../../CS++PVMonitor Messages/Unregister AEs Msg/Unregister AEs Msg.lvclass"/>
 		<Item Name="Unregister PVs Msg.lvclass" Type="LVClass" URL="../../CS++PVMonitor Messages/Unregister PVs Msg/Unregister PVs Msg.lvclass"/>
 	</Item>
 	<Item Name="CS++PVMonitor.ini" Type="Document" URL="../CS++PVMonitor.ini"/>
