@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+Collection of errors generated within the CS++Core class libraries.
+
+
+
+
+
+<nifamily familyname="CS++Core-Errors" displayname="CS++Core-Errors">
+</nifamily>
+</nicomment>
+<nierror code="-8999">
+Object not found in database.
+</nierror>
+<nierror code="-8998">
+Object configuration data not found in database.
+</nierror>
+<nierror code="-8997">
+Actor object already exists.
+</nierror>
+<nierror code="-8996">
+PV not connected. Empty URL.
+</nierror>
+<nierror code="-8995">
+PV is already connected.
+</nierror>
+<nierror code="-8994">
+Invalid PV Reference.
+</nierror>
+<nierror code="-8993">
+PV URL does not match.
+</nierror>
+</nidocument>

@@ -1,4 +1,4 @@
-The LabVIEW project "CSPP_Core.lvproj" provides the CS++ core system, some libraries, classes and actors.
+The LabVIEW project "CSPP_Core.lvproj" provides the CS++core system, some libraries, classes and actors.
 
 Refer to https://github.com/HB-GSI/CSPP for CS++ project overview, details and documentation.
 
@@ -7,7 +7,7 @@ Refer to https://github.com/HB-GSI/CSPP for CS++ project overview, details and d
 
 The project GIT workflow contains five branches: 
 
-LabVIEW 2013 is currently used development.
+LabVIEW 2014 is the currently used development environment.
 
 Related documents and information
 =================================
@@ -27,13 +27,13 @@ Following git submodules are defined in the CS++ project.
 - Packages/CSPP_Core
 
 Optional submodules available:
-- Packages/CSPP_IVI: Implementations of CS++Device base classes using IVI driver
-- Packages/CSPP_DSC: containing Alarm- & Trend-Viewer
+- Packages/CSPP_DeviceBase: Definition of CS++Device ancestor classes
+- Packages/CSPP_IVI: Implementations of derived CS++Device classes using IVI driver
+- Packages/CSPP_DSC: Containing DSC Alarm- & Trend-Viewer
 - Packages/CSPP_DIM: Providing DIM for PV communication
-- Packages/CSPP_Examples
-- Packages/CSPP_DeviceBase
+- Packages/CSPP_Examples: Illustrating the usage of the above packages
 
-External Dependencies
+Optional External Dependencies
 =================================
 - Syslog; Refer to http://sine.ni.com/nips/cds/view/p/lang/de/nid/209116
 - Monitored Actor; Refer to https://decibel.ni.com/content/thread/18301 and http://lavag.org/topic/17056-monitoring-actors
@@ -43,10 +43,12 @@ Getting started:
 - Create a project specific copy of "CSPP_Core.lvproj"
   - or add CS++CoreContent.vi into your own LabVIEW project. You can drag the desired libraries from the dependencies into your virtual project folder structure.
 - CS++UserContents.vi; Include your project specific Content-VIs in a corresponding case of the conditional disable structure. This VI is included in the "CS++StartActor:Launch CS++StartActor.vi". This makes building an application convenient since the application builder can find all dependencies in the VI-Hierarchy.
-- You need to create your project specific ini-file, like "CSPP_Core.ini"
-  - Sample ini-file should be available for all classes, either in the LV-Project or on disk in the corresponding class or package folder.
+- You need to create your project specific ini-file, like "CSPP_Core.ini" containing samples of all classes and actors, etc.
 - You need to create and deploy your project specific shared Variable libraries.
-  - Sample shared Variable libraries should be available for all concerned classes on disk in the corresponding class or package folder.
+  - Sample shared Variable libraries should be available on disk in the corresponding package folder.
+- Create a hard link to the custom error file: 
+  - cd <LabVIEW 2014>\user.lib\errors
+  - mklink /h CS++Core-errors.txt Packages\CSPP_Core\CS++Core-errors.txt
 - Run your project specific "CS++Main.vi" or "CS++StartActor:Launch CS++StartActor.vi"
 
 
