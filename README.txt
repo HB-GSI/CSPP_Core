@@ -21,16 +21,18 @@ Related documents and information
   - Project-Wiki: https://github.com/HB-GSI/CSPP/wiki
   - NI Actor Framework: https://decibel.ni.com/content/groups/actor-framework-2011?view=overview
 
-You can use this package as GIT Submodule
-=================================
-Following git submodules are defined in the CS++ project.
+GIT Submodules
+==============
+This package can used as submodule.
 - Packages/CSPP_Core
 
-Optional submodules available:
+Optional submodules
+-------------------
 - Packages/CSPP_DeviceBase: Definition of CS++Device ancestor classes
 - Packages/CSPP_IVI: Implementations of derived CS++Device classes using IVI driver
 - Packages/CSPP_DSC: Containing DSC Alarm- & Trend-Viewer
 - Packages/CSPP_DIM: Providing DIM for PV communication
+- Packages/CSPP_Syslog: Providing a Syslog based Message Handler 
 - Packages/CSPP_Examples: Illustrating the usage of the above packages
 
 Optional External Dependencies

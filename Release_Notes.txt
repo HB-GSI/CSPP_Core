@@ -1,5 +1,5 @@
-Release Notes for the CS++ Project - 9-December-2014
-=================================================
+Release Notes for the CSPP_Core Project - 9-December-2014
+=========================================================
 This LabVIEW project "CS++.lvproj" is used to develop the successor of the CS Framework.
 
 - CS++ will be based on native LabVIEW classes and the actor framework.
