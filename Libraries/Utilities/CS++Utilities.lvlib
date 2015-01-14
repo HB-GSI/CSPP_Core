@@ -49,9 +49,11 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
 	<Property Name="Serialized ACL" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
+	<Item Name="Add LVCLASS-Tag.vi" Type="VI" URL="../Add LVCLASS-Tag.vi"/>
 	<Item Name="Boolean String to Boolean.vi" Type="VI" URL="../Boolean String to Boolean.vi"/>
 	<Item Name="Boolean to Boolean String.vi" Type="VI" URL="../Boolean to Boolean String.vi"/>
 	<Item Name="Error Cluster from Error Code.vi" Type="VI" URL="../Error Cluster from Error Code.vi"/>
+	<Item Name="Extract LVCLASS-Taged Classname.vi" Type="VI" URL="../Extract LVCLASS-Taged Classname.vi"/>
 	<Item Name="Get Class Default Object.vi" Type="VI" URL="../Get Class Default Object.vi"/>
 	<Item Name="Read URLs from Variant.vi" Type="VI" URL="../Read URLs from Variant.vi"/>
 	<Item Name="Send Msg to MessageLogger.vi" Type="VI" URL="../Send Msg to MessageLogger.vi"/>
