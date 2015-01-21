@@ -3,10 +3,6 @@
 <nicomment>
 Collection of errors generated within the CS++Core class libraries.
 
-
-
-
-
 <nifamily familyname="CS++Core-Errors" displayname="CS++Core-Errors">
 </nifamily>
 </nicomment>
