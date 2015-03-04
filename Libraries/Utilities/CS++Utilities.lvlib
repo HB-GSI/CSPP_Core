@@ -55,6 +55,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Item Name="Error Cluster from Error Code.vi" Type="VI" URL="../Error Cluster from Error Code.vi"/>
 	<Item Name="Error to Message.vi" Type="VI" URL="../Error to Message.vi"/>
 	<Item Name="Extract LVCLASS-Taged Classname.vi" Type="VI" URL="../Extract LVCLASS-Taged Classname.vi"/>
+	<Item Name="Floating Messagebox.vi" Type="VI" URL="../Floating Messagebox.vi"/>
 	<Item Name="Get Class Default Object.vi" Type="VI" URL="../Get Class Default Object.vi"/>
 	<Item Name="Read URLs from Variant.vi" Type="VI" URL="../Read URLs from Variant.vi"/>
 	<Item Name="Send Msg to MessageLogger.vi" Type="VI" URL="../Send Msg to MessageLogger.vi"/>
