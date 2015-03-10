@@ -58,6 +58,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Property Name="NI.LibItem.Scope" Type="Int">4</Property>
 		</Item>
 		<Item Name="FGV Central Message Logger.vi" Type="VI" URL="../FGV Central Message Logger.vi"/>
+		<Item Name="FGV PV Monitors.vi" Type="VI" URL="../FGV PV Monitors.vi"/>
 		<Item Name="FGV PV Protocols.vi" Type="VI" URL="../FGV PV Protocols.vi"/>
 	</Item>
 	<Item Name="private" Type="Folder">

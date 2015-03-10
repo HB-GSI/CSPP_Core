@@ -59,6 +59,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="Serialized ACL" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Add PV Protocols to FGV.vi" Type="VI" URL="../Add PV Protocols to FGV.vi"/>
+	<Item Name="Add PV Monitors to FGV.vi" Type="VI" URL="../Add PV Monitors to FGV.vi"/>
 	<Item Name="Open PV Connection.vi" Type="VI" URL="../SVConnection/Open PV Connection.vi"/>
 	<Item Name="Open PV Connections.vi" Type="VI" URL="../SVConnection/Open PV Connections.vi"/>
 	<Item Name="PV-URL 2 PVConnectionObj.vi" Type="VI" URL="../PV-URL 2 PVConnectionObj.vi"/>

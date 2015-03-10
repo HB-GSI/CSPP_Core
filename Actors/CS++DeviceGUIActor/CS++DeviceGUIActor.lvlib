@@ -49,8 +49,5 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
 	<Property Name="Serialized ACL" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
-	<Item Name="Message" Type="Folder">
-		<Item Name="Update PV.lvclass" Type="LVClass" URL="../../CS++DeviceGUIActor Messages/Update PV.lvclass"/>
-	</Item>
 	<Item Name="CS++DeviceGUIActor.lvclass" Type="LVClass" URL="../CS++DeviceGUIActor.lvclass"/>
 </Library>
