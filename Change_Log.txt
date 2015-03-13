@@ -8,6 +8,11 @@ H.Brand@gsi.de
 ==============
 Refer to commit messages in Git repository for details.
 
+13-March-2015
+- Create SV and process if not existing
+- Modify PV & AE Handling accordingly.
+- Modify GUI Event Handling according to changes in base class
+- Add Introspection
 
 D.Neidherr@gsi.de
 ==============
