@@ -49,9 +49,23 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
 	<Property Name="Serialized ACL" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
+	<Item Name="privat" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Array Size(s)__ogtk.vi" Type="VI" URL="../Array Size(s)__ogtk.vi"/>
+		<Item Name="Build Error Cluster__ogtk.vi" Type="VI" URL="../Build Error Cluster__ogtk.vi"/>
+		<Item Name="Cluster to Array of VData__ogtk.vi" Type="VI" URL="../Cluster to Array of VData__ogtk.vi"/>
+		<Item Name="Get Header from TD__ogtk.vi" Type="VI" URL="../Get Header from TD__ogtk.vi"/>
+		<Item Name="Parse String with TDs__ogtk.vi" Type="VI" URL="../Parse String with TDs__ogtk.vi"/>
+		<Item Name="Split Cluster TD__ogtk.vi" Type="VI" URL="../Split Cluster TD__ogtk.vi"/>
+		<Item Name="Type Descriptor Enumeration__ogtk.ctl" Type="VI" URL="../Type Descriptor Enumeration__ogtk.ctl"/>
+		<Item Name="Type Descriptor Header__ogtk.ctl" Type="VI" URL="../Type Descriptor Header__ogtk.ctl"/>
+		<Item Name="Type Descriptor__ogtk.ctl" Type="VI" URL="../Type Descriptor__ogtk.ctl"/>
+		<Item Name="Variant to Header Info__ogtk.vi" Type="VI" URL="../Variant to Header Info__ogtk.vi"/>
+	</Item>
 	<Item Name="Add LVCLASS-Tag.vi" Type="VI" URL="../Add LVCLASS-Tag.vi"/>
 	<Item Name="Boolean String to Boolean.vi" Type="VI" URL="../Boolean String to Boolean.vi"/>
 	<Item Name="Boolean to Boolean String.vi" Type="VI" URL="../Boolean to Boolean String.vi"/>
+	<Item Name="Data 2 TypeDescriptor.vi" Type="VI" URL="../Data 2 TypeDescriptor.vi"/>
 	<Item Name="Error Cluster from Error Code.vi" Type="VI" URL="../Error Cluster from Error Code.vi"/>
 	<Item Name="Error to Message.vi" Type="VI" URL="../Error to Message.vi"/>
 	<Item Name="Extract LVCLASS-Taged Classname.vi" Type="VI" URL="../Extract LVCLASS-Taged Classname.vi"/>
