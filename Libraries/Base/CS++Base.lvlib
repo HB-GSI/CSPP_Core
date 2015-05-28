@@ -52,8 +52,10 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Friends List" Type="Friends List">
 		<Item Name="CS++BaseActor.lvlib:CS++BaseActor.lvclass" Type="Friended Library" URL="../../../Actors/CS++BaseActor/CS++BaseActor.lvclass"/>
+		<Item Name="CS++ObjectManager.lvlib:CS++ObjectManager.lvclass" Type="Friended Library" URL="../../../../CSPP_ObjectManager/CS++ObjectManager/CS++ObjectManager.lvclass"/>
 	</Item>
 	<Item Name="FGVs" Type="Folder">
+		<Item Name="FGV Actor Classes-Messages.vi" Type="VI" URL="../FGV Actor Classes-Messages.vi"/>
 		<Item Name="FGV Actor Enqueuer.vi" Type="VI" URL="../FGV Actor Enqueuer.vi">
 			<Property Name="NI.LibItem.Scope" Type="Int">4</Property>
 		</Item>
