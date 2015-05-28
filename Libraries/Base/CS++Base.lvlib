@@ -51,17 +51,25 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="Serialized ACL" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Friends List" Type="Friends List">
-		<Item Name="CS++BaseActor.lvlib:CS++BaseActor.lvclass" Type="Friended Library" URL="../../../Actors/CS++BaseActor/CS++BaseActor.lvclass"/>
+		<Item Name="CS++StartActor.lvlib" Type="Friended Library" URL="../../../Actors/CS++StartActor/CS++StartActor.lvlib"/>
+		<Item Name="CS++StartActor.lvlib:CS++StartActor.lvclass" Type="Friended Library" URL="../../../Actors/CS++StartActor/CS++StartActor.lvclass"/>
 		<Item Name="CS++ObjectManager.lvlib:CS++ObjectManager.lvclass" Type="Friended Library" URL="../../../../CSPP_ObjectManager/CS++ObjectManager/CS++ObjectManager.lvclass"/>
+		<Item Name="CS++BaseActor.lvlib:CS++BaseActor.lvclass" Type="Friended Library" URL="../../../Actors/CS++BaseActor/CS++BaseActor.lvclass"/>
+		<Item Name="CS++ProcessVariables.lvlib:Add PV Monitors to FGV.vi" Type="Friended VI" URL="../../../Classes/CS++ProcessVariables/Add PV Monitors to FGV.vi"/>
+		<Item Name="CS++ProcessVariables.lvlib:Add PV Protocols to FGV.vi" Type="Friended VI" URL="../../../Classes/CS++ProcessVariables/Add PV Protocols to FGV.vi"/>
 	</Item>
-	<Item Name="FGVs" Type="Folder">
-		<Item Name="FGV Actor Classes-Messages.vi" Type="VI" URL="../FGV Actor Classes-Messages.vi"/>
-		<Item Name="FGV Actor Enqueuer.vi" Type="VI" URL="../FGV Actor Enqueuer.vi">
+	<Item Name="FGV" Type="Folder">
+		<Item Name="FGVs" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">4</Property>
+			<Item Name="FGV Actor Classes-Messages.vi" Type="VI" URL="../FGV Actor Classes-Messages.vi"/>
+			<Item Name="FGV Actor Enqueuer.vi" Type="VI" URL="../FGV Actor Enqueuer.vi"/>
+			<Item Name="FGV Central Message Logger.vi" Type="VI" URL="../FGV Central Message Logger.vi"/>
+			<Item Name="FGV PV Monitors.vi" Type="VI" URL="../FGV PV Monitors.vi"/>
+			<Item Name="FGV PV Protocols.vi" Type="VI" URL="../FGV PV Protocols.vi"/>
 		</Item>
-		<Item Name="FGV Central Message Logger.vi" Type="VI" URL="../FGV Central Message Logger.vi"/>
-		<Item Name="FGV PV Monitors.vi" Type="VI" URL="../FGV PV Monitors.vi"/>
-		<Item Name="FGV PV Protocols.vi" Type="VI" URL="../FGV PV Protocols.vi"/>
+		<Item Name="FGV Read Central Message Logger.vi" Type="VI" URL="../FGV Read Central Message Logger.vi"/>
+		<Item Name="FGV Read PV Monitors.vi" Type="VI" URL="../FGV Read PV Monitors.vi"/>
+		<Item Name="FGV Read PV Protocols.vi" Type="VI" URL="../FGV Read PV Protocols.vi"/>
 	</Item>
 	<Item Name="private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
