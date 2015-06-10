@@ -65,6 +65,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Item Name="Add LVCLASS-Tag.vi" Type="VI" URL="../Add LVCLASS-Tag.vi"/>
 	<Item Name="Boolean String to Boolean.vi" Type="VI" URL="../Boolean String to Boolean.vi"/>
 	<Item Name="Boolean to Boolean String.vi" Type="VI" URL="../Boolean to Boolean String.vi"/>
+	<Item Name="Close Window or Stop Actor Dialog.vi" Type="VI" URL="../Close Window or Stop Actor Dialog.vi"/>
 	<Item Name="Data 2 TypeDescriptor.vi" Type="VI" URL="../Data 2 TypeDescriptor.vi"/>
 	<Item Name="Error Cluster from Error Code.vi" Type="VI" URL="../Error Cluster from Error Code.vi"/>
 	<Item Name="Error to Message.vi" Type="VI" URL="../Error to Message.vi"/>
