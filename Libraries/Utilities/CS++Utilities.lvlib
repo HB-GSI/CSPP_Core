@@ -75,4 +75,5 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Item Name="Read URLs from Variant.vi" Type="VI" URL="../Read URLs from Variant.vi"/>
 	<Item Name="Send Msg to MessageLogger.vi" Type="VI" URL="../Send Msg to MessageLogger.vi"/>
 	<Item Name="String 2 String Array.vi" Type="VI" URL="../String 2 String Array.vi"/>
+	<Item Name="String Array 2 String.vi" Type="VI" URL="../String Array 2 String.vi"/>
 </Library>
