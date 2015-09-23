@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="14008000">
+<Library LVVersion="15008000">
 	<Property Name="Alarm Database Computer" Type="Str">localhost</Property>
 	<Property Name="Alarm Database Name" Type="Str">C__Program_Files_National_Instruments_LabVIEW_2012_data</Property>
 	<Property Name="Alarm Database Path" Type="Str">C:\Program Files\National Instruments\LabVIEW 2012\data</Property>
@@ -25,8 +25,8 @@ Sofern nicht durch anwendbare Rechtsvorschriften gefordert oder in schriftlicher
 
 Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind dem Lizenztext zu entnehmen.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*(!!!*Q(C=\&gt;7`43.2%-@R(S=#)I1\/&amp;H8!*I+E*SY!,=Q,4AF&gt;!EXW171O!5H&amp;$#[$CR2Q&lt;;Q@.`T?)]%@")A#.BFT0*\`T\?@6KE@FR)ZRJ0(6?P(P`4XPM]HWGMZ0$2?FQ&gt;'M&gt;$(:0RW$Z..%\V,TZ?DS_-HY;_M0[&lt;P^`L\3=/@2`@R_=?NS=X[9@PW4/V&amp;R'66&amp;"/G&gt;J39Z)H?:)H?:)H?:!(?:!(?:!(O:-\O:-\O:-\O:%&lt;O:%&lt;O:%&lt;?4`*23ZSE5.+&amp;E]73C:.*EA[1V(SE8A34_**00SJR*.Y%E`C34RU5?**0)EH]31?BCHR**\%EXA3$V.V3@;4(%`C98I&amp;HM!4?!*0Y'&amp;*":Y!%#Q74"R-!E."9X!2?!*0Y/&amp;3A3@Q"*\!%XBI6O!*0)%H]!1?BP3\%FX44H)]4#0(YXA=D_.R0%QNR_.Y()`D=4QM*]@D?"S%M[!T/11ZAZQ/TB_/R`(Q3Y\(]4A?R_.Y;/J0S0O&gt;;:JWEO-R0)&lt;(]"A?Q]-5-DS'R`!9(M0$N$)]BM@Q'"\$QV)S0)&lt;(]"A19V'7FT':-&gt;$I:!3'BZ__7[Q`J?A3[[&gt;5GV?V+67&lt;4&lt;7*6*N$^&gt;"6$V0VE&amp;1X8X6464&gt;,&gt;2.58U[&amp;6G&amp;5C[A'NYY;_.R4/WJ,&lt;;AVN;)7V*S;N;(PX(%9"OXX?_VW/WWX7WUW'[X8;[V7+SU7#]XH=]VGM_EV]*.T?C%=XEOX8,@[`8BZ@8__80\Z/^T=`6IOY_(S_ND7[I0_FX["&gt;[._[0G]X+-H\O&amp;O=1!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*(!!!*Q(C=\&gt;7`43.2%-@R(S=#)I1\/&amp;H8!*I+E*SY!,=Q,4AF&gt;!EXW171O!5H&amp;$#[$CR2Q&lt;;Q@.`T?)]%@")A#.BFT0*\`T\?@6KE@FR)ZRJ0(6?P(P`4XPM]HWGMZ0$2?FQ&gt;'M&gt;$(:0RW$Z..%\V,TZ?DS_-HY;_M0[&lt;P^`L\3=/@2`@R_=?NS=X[9@PW4/V&amp;R'66&amp;"/G&gt;J39Z)H?:)H?:)H?:!(?:!(?:!(O:-\O:-\O:-\O:%&lt;O:%&lt;O:%&lt;?4`*23ZSE5.+&amp;E]73C:.*EA[1V(SE8A34_**00SJR*.Y%E`C34RU5?**0)EH]31?BCHR**\%EXA3$V.V3@;4(%`C98I&amp;HM!4?!*0Y'&amp;*":Y!%#Q74"R-!E."9X!2?!*0Y/&amp;3A3@Q"*\!%XBI6O!*0)%H]!1?BP3\%FX44H)]4#0(YXA=D_.R0%QNR_.Y()`D=4QM*]@D?"S%M[!T/11ZAZQ/TB_/R`(Q3Y\(]4A?R_.Y;/J0S0O&gt;;:JWEO-R0)&lt;(]"A?Q]-5-DS'R`!9(M0$N$)]BM@Q'"\$QV)S0)&lt;(]"A19V'7FT':-&gt;$I:!3'BZ__7[Q`J?A3[[&gt;5GV?V+67&lt;4&lt;7*6*N$^&gt;"6$V0VE&amp;1X8X6464&gt;,&gt;2.58U[&amp;6G&amp;5C[A'NYY;_.R4/WJ,&lt;;AVN;)7V*S;N;(PX(%9"OXX?_VW/WWX7WUW'[X8;[V7+SU7#]XH=]VGM_EV]*.T?C%=XEOX8,@[`8BZ@8__80\Z/^T=`6IOY_(S_ND7[I0_FX["&gt;[._[0G]X+-H\O&amp;O=1!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -48,7 +48,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="OdbcStringLoggingTableName" Type="Str">NI_VARIABLE_STRING</Property>
 	<Property Name="OdbcUsername" Type="Str"></Property>
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
-	<Property Name="Serialized ACL" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
+	<Property Name="Serialized ACL" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="CS++Base.lvclass" Type="LVClass" URL="../Base/CS++Base.lvclass"/>
 	<Item Name="CS++Factory.lvclass" Type="LVClass" URL="../Factory/CS++Factory.lvclass"/>
