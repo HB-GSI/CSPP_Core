@@ -3,6 +3,7 @@
 <nicomment>
 Collection of errors generated within the CS++Core class libraries.
 
+
 <nifamily familyname="CS++Core-Errors" displayname="CS++Core-Errors">
 </nifamily>
 </nicomment>
@@ -26,5 +27,8 @@ Invalid PV Reference.
 </nierror>
 <nierror code="-8993">
 PV URL does not match.
+</nierror>
+<nierror code="-8992">
+PV Variant data is empty.
 </nierror>
 </nidocument>
