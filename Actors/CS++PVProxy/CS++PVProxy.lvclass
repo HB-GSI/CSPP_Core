@@ -214,6 +214,16 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Property Name="NI.ClassItem.State" Type="Int">277618704</Property>
 			<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 		</Item>
+		<Item Name="Handle Last Ack Core.vi" Type="VI" URL="../Handle Last Ack Core.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;B!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%"!=!!?!!!H%5.4+SN16F"S&lt;XBZ,GRW&lt;'FC%U.4+SN16F"S&lt;XBZ,GRW9WRB=X-!$U.4+SN16F"S&lt;XBZ)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$R!=!!?!!!I&amp;5&amp;D&gt;'^S)%:S97VF&gt;W^S;SZM&gt;GRJ9B"-98.U)%&amp;D;SZM&gt;G.M98.T!!!)4'&amp;T&gt;#""9WM!!%"!=!!?!!!H%5.4+SN16F"S&lt;XBZ,GRW&lt;'FC%U.4+SN16F"S&lt;XBZ,GRW9WRB=X-!$E.4+SN16F"S&lt;XBZ)'FO!!!]!0!!#!!$!!1!"!!&amp;!!9!"!!(!!A$!!"A!!!."!!!!!!!!!!!!!#*!!!!#A!!!!!!!!!1!!!!E!!!!!!"!!E!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107825168</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
+		</Item>
 	</Item>
 	<Item Name="Dispatch PVMonitors.vi" Type="VI" URL="../Dispatch PVMonitors.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'@!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!%"!=!!?!!!H%5.4+SN16F"S&lt;XBZ,GRW&lt;'FC%U.4+SN16F"S&lt;XBZ,GRW9WRB=X-!$U.4+SN16F"S&lt;XBZ)'^V&gt;!!61!%!$UZV&lt;76S;7-A1W^O&gt;(*P&lt;!!71%!!!@````]!"AFR&gt;76V:62Z='5!(%"Q!")!!1!(%6"7)%&amp;D&gt;'FW982F)&amp;&amp;V:86F!"B!=!!3!!%!"QV16C"%982B)&amp;&amp;V:86F!":!5!!$!!!!!1!##%6S=G^S)%FO!!"!1(!!(A!!*R&amp;$5SML5&amp;:1=G^Y?3ZM&gt;GRJ9B.$5SML5&amp;:1=G^Y?3ZM&gt;G.M98.T!!Z$5SML5&amp;:1=G^Y?3"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!)!!1!#1!%!!I!"!!%!!M$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
