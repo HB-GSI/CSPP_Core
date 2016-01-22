@@ -15,7 +15,7 @@
 		<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"5!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="myDeviceActor_DriverRevision" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
+		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Initial Value:Value" Type="Str"></Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
@@ -24,7 +24,7 @@
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/CSPP_Core.lvproj/My Computer/CSPP_Core/CSPP-Core-SV.lvlib/</Property>
+		<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Packages/Core/CSPP_Core_SV.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"5!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
@@ -55,7 +55,7 @@
 		<Property Name="Alarming:LoLo:Enabled" Type="Str">False</Property>
 		<Property Name="Alarming:ROC:Enabled" Type="Str">False</Property>
 		<Property Name="Alarming:Status:Enabled" Type="Str">False</Property>
-		<Property Name="featurePacks" Type="Str">Alarming,Network,Initial Value</Property>
+		<Property Name="featurePacks" Type="Str">Alarming,Network</Property>
 		<Property Name="Initial Value:Value" Type="Str">0</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
@@ -64,12 +64,12 @@
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/CSPP_Core.lvproj/My Computer/CSPP_Core/CSPP-Core-SV.lvlib/</Property>
+		<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Packages/Core/CSPP_Core_SV.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"5!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="myDeviceActor_ErrorMessage" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
+		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Initial Value:Value" Type="Str"></Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
@@ -78,12 +78,12 @@
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/CSPP_Core.lvproj/My Computer/CSPP_Core/CSPP-Core-SV.lvlib/</Property>
+		<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Packages/Core/CSPP_Core_SV.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"5!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="myDeviceActor_FirmwareRevision" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
+		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Initial Value:Value" Type="Str"></Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
@@ -92,7 +92,7 @@
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/CSPP_Core.lvproj/My Computer/CSPP_Core/CSPP-Core-SV.lvlib/</Property>
+		<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Packages/Core/CSPP_Core_SV.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"5!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
@@ -107,7 +107,7 @@
 		<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"5!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="myDeviceActor_ResourceName" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Initial Value,Network</Property>
+		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Initial Value:Value" Type="Str"></Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
@@ -116,7 +116,7 @@
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/CSPP_Core.lvproj/My Computer/CSPP_Core/CSPP-Core-SV.lvlib/</Property>
+		<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Packages/Core/CSPP_Core_SV.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"5!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
@@ -131,7 +131,7 @@
 		<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"5!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="myDeviceActor_SelftestResultCode" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
+		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Initial Value:Value" Type="Str">0</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
@@ -140,12 +140,12 @@
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/CSPP_Core.lvproj/My Computer/CSPP_Core/CSPP-Core-SV.lvlib/</Property>
+		<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Packages/Core/CSPP_Core_SV.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"5!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="myDeviceActor_SelftestResultMessage" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Initial Value,Network</Property>
+		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Initial Value:Value" Type="Str"></Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
@@ -154,7 +154,7 @@
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/CSPP_Core.lvproj/My Computer/CSPP_Core/CSPP-Core-SV.lvlib/</Property>
+		<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Packages/Core/CSPP_Core_SV.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"5!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>

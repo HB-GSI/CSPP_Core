@@ -68,6 +68,5 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Item Name="AE.lvclass" Type="LVClass" URL="../AlarmEvent/AE.lvclass"/>
 	<Item Name="PV.lvclass" Type="LVClass" URL="../ProcessVariable/PV.lvclass"/>
 	<Item Name="PVConnection.lvclass" Type="LVClass" URL="../PVConnection/PVConnection.lvclass"/>
-	<Item Name="SVConnection.lvclass" Type="LVClass" URL="../SVConnection/SVConnection.lvclass"/>
 	<Item Name="DSConnection.lvclass" Type="LVClass" URL="../DSConnection/DSConnection.lvclass"/>
 </Library>
