@@ -69,6 +69,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 		</Item>
 	</Item>
 	<Item Name="protected" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 		<Item Name="Initialize Attributes.vi" Type="VI" URL="../Initialize Attributes.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;T!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!R!)1:'&lt;X6O:$]!!%R!=!!?!!!R'E.4+SN1=G^D:8.T6G&amp;S;7&amp;C&lt;'6T,GRW&lt;'FC&amp;&amp;"71W^O&lt;G6D&gt;'FP&lt;CZM&gt;G.M98.T!""16E.P&lt;GZF9X2J&lt;WYA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"2!5QZ"&gt;(2S;7*V&gt;'5A2'&amp;U91!!3E"Q!"Y!!$%;1V-L+V"S&lt;W.F=X.798*J97*M:8-O&lt;(:M;7)55&amp;:$&lt;WZO:7.U;7^O,GRW9WRB=X-!$V"71W^O&lt;G6D&gt;'FP&lt;C"J&lt;A"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!A!#1-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!EA!!!!!"!!I!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -78,7 +79,6 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Property Name="NI.ClassItem.MustCallParent" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342713874</Property>
-			<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 		</Item>
 		<Item Name="Connect Core.vi" Type="VI" URL="../Connect Core.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(V!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!%R!=!!?!!!R'E.4+SN1=G^D:8.T6G&amp;S;7&amp;C&lt;'6T,GRW&lt;'FC&amp;&amp;"71W^O&lt;G6D&gt;'FP&lt;CZM&gt;G.M98.T!""16E.P&lt;GZF9X2J&lt;WYA&lt;X6U!!!&amp;!!%!!!Q!1!!"`````Q!'!"2!=!!3!!%!"QBR&gt;76V:6*F:A!!+5!6!!-(17RM&lt;X&gt;F:!B3:8&amp;V;8*F:!2/&lt;WZF!!N3:7&amp;E)%&amp;D9W6T=Q!L1"5!!Q&gt;"&lt;'RP&gt;W6E#&amp;*F=86J=G6E"%ZP&lt;G5!$&amp;&gt;S;82F)%&amp;D9W6T=Q!!)%"1!!)!#1!+&amp;%&amp;D9W6T=S!I5C^8)'&amp;M&lt;'^X:71J!!!41!9!$5VP:'5A+'*V:G:F=CE!&amp;E"1!!-!!!!"!!))28*S&lt;X)A37Y!!%J!=!!?!!!R'E.4+SN1=G^D:8.T6G&amp;S;7&amp;C&lt;'6T,GRW&lt;'FC&amp;&amp;"71W^O&lt;G6D&gt;'FP&lt;CZM&gt;G.M98.T!!^16E.P&lt;GZF9X2J&lt;WYA;7Y!6!$Q!!Q!!Q!%!!1!"1!)!!1!#Q!-!!U!"!!%!!Y#!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!#!!!!!A!!!!!!!!!!!!!!*!!!!!!!1!0!!!!!!</Property>
@@ -89,7 +89,6 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Property Name="NI.ClassItem.MustOverride" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">8400896</Property>
-			<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 		</Item>
 		<Item Name="Read Core.vi" Type="VI" URL="../Read Core.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'O!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#82J&lt;76E)'^V&gt;!!U1(!!(A!!*RJ$5SML5(*P9W6T=V:B=GFB9GRF=SZM&gt;GRJ9AJ16CZM&gt;G.M98.T!!*16A!!4%"Q!"Y!!$%;1V-L+V"S&lt;W.F=X.798*J97*M:8-O&lt;(:M;7)55&amp;:$&lt;WZO:7.U;7^O,GRW9WRB=X-!%&amp;"71W^O&lt;G6D&gt;'FP&lt;C"P&gt;81!!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"F!'A!"!!)!!1!-6'FN:7^V&gt;#!I-8-J!!"+1(!!(A!!-2J$5SML5(*P9W6T=V:B=GFB9GRF=SZM&gt;GRJ9B216E.P&lt;GZF9X2J&lt;WYO&lt;(:D&lt;'&amp;T=Q!05&amp;:$&lt;WZO:7.U;7^O)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"Q!(!!=!"Q!)!!E!"Q!+!A!!?!!!$1A!!!E!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!#!!!!!!!!!#1!!!!!!%!#Q!!!!!</Property>
@@ -100,7 +99,6 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Property Name="NI.ClassItem.MustOverride" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">794624</Property>
-			<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 		</Item>
 		<Item Name="Write Core.vi" Type="VI" URL="../Write Core.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'(!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%R!=!!?!!!R'E.4+SN1=G^D:8.T6G&amp;S;7&amp;C&lt;'6T,GRW&lt;'FC&amp;&amp;"71W^O&lt;G6D&gt;'FP&lt;CZM&gt;G.M98.T!""16E.P&lt;GZF9X2J&lt;WYA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$2!=!!?!!!H'E.4+SN1=G^D:8.T6G&amp;S;7&amp;C&lt;'6T,GRW&lt;'FC#F"7,GRW9WRB=X-!!F"7!!"+1(!!(A!!-2J$5SML5(*P9W6T=V:B=GFB9GRF=SZM&gt;GRJ9B216E.P&lt;GZF9X2J&lt;WYO&lt;(:D&lt;'&amp;T=Q!05&amp;:$&lt;WZO:7.U;7^O)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!)!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!"!!!!#1!!!!!!%!#1!!!!!</Property>
@@ -111,7 +109,6 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Property Name="NI.ClassItem.MustOverride" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">34078720</Property>
-			<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 		</Item>
 		<Item Name="Write Trigger Core.vi" Type="VI" URL="../Write Trigger Core.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'(!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%R!=!!?!!!R'E.4+SN1=G^D:8.T6G&amp;S;7&amp;C&lt;'6T,GRW&lt;'FC&amp;&amp;"71W^O&lt;G6D&gt;'FP&lt;CZM&gt;G.M98.T!""16E.P&lt;GZF9X2J&lt;WYA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$2!=!!?!!!H'E.4+SN1=G^D:8.T6G&amp;S;7&amp;C&lt;'6T,GRW&lt;'FC#F"7,GRW9WRB=X-!!F"7!!"+1(!!(A!!-2J$5SML5(*P9W6T=V:B=GFB9GRF=SZM&gt;GRJ9B216E.P&lt;GZF9X2J&lt;WYO&lt;(:D&lt;'&amp;T=Q!05&amp;:$&lt;WZO:7.U;7^O)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!)!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!"!!!!#1!!!!!!%!#1!!!!!</Property>
@@ -121,7 +118,6 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">268972032</Property>
-			<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 		</Item>
 		<Item Name="Disconnect Core.vi" Type="VI" URL="../Disconnect Core.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;B!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%R!=!!?!!!R'E.4+SN1=G^D:8.T6G&amp;S;7&amp;C&lt;'6T,GRW&lt;'FC&amp;&amp;"71W^O&lt;G6D&gt;'FP&lt;CZM&gt;G.M98.T!""16E.P&lt;GZF9X2J&lt;WYA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!)1F'&lt;X*D:3!I6#E!3E"Q!"Y!!$%;1V-L+V"S&lt;W.F=X.798*J97*M:8-O&lt;(:M;7)55&amp;:$&lt;WZO:7.U;7^O,GRW9WRB=X-!$V"71W^O&lt;G6D&gt;'FP&lt;C"J&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!)!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!E!!!!!</Property>
@@ -132,7 +128,6 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Property Name="NI.ClassItem.MustOverride" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">8400896</Property>
-			<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 		</Item>
 	</Item>
 	<Item Name="Connect.vi" Type="VI" URL="../Connect.vi">

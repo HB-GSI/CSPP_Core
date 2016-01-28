@@ -4,6 +4,8 @@
 Collection of errors generated within the CS++Core class libraries.
 
 
+
+
 <nifamily familyname="CS++Core-Errors" displayname="CS++Core-Errors">
 </nifamily>
 </nicomment>
@@ -30,5 +32,17 @@ PV URL does not match.
 </nierror>
 <nierror code="-8992">
 PV Variant data is empty.
+</nierror>
+<nierror code="-8991">
+Override-Methode not implemented in derived class.
+</nierror>
+<nierror code="-8990">
+Not all required initialization parameters found.
+</nierror>
+<nierror code="-8989">
+CS++PVProxy.lvclass can not typecast messages to CS++PVUpdate Msg.lvclass. Message name may contains a typo, is not contained in Introspection.vi or does not inherit from CS++PVUpdate Msg.lvclass.
+</nierror>
+<nierror code="-8988">
+CS++PVProxy.lvclass: No CS++PVUpdate Msg.lvclass specified. Stopping proxy.
 </nierror>
 </nidocument>
