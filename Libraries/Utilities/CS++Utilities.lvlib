@@ -49,6 +49,12 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
 	<Property Name="Serialized ACL" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
+	<Item Name="DataSocket" Type="Folder">
+		<Item Name="DS Activate PVProxy.vi" Type="VI" URL="../DS Activate PVProxy.vi"/>
+		<Item Name="DS BaseActor Polling Interval.vi" Type="VI" URL="../DS BaseActor Polling Interval.vi"/>
+		<Item Name="DS BaseActor PollingTime.vi" Type="VI" URL="../DS BaseActor PollingTime.vi"/>
+		<Item Name="DS BaseActor StartStop Polling.vi" Type="VI" URL="../DS BaseActor StartStop Polling.vi"/>
+	</Item>
 	<Item Name="privat" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Array Size(s)__ogtk.vi" Type="VI" URL="../Array Size(s)__ogtk.vi"/>
