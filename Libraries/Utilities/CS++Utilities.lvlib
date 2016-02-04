@@ -68,6 +68,9 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 		<Item Name="Type Descriptor__ogtk.ctl" Type="VI" URL="../Type Descriptor__ogtk.ctl"/>
 		<Item Name="Variant to Header Info__ogtk.vi" Type="VI" URL="../Variant to Header Info__ogtk.vi"/>
 	</Item>
+	<Item Name="PV" Type="Folder">
+		<Item Name="PV Establish Connection.vi" Type="VI" URL="../PV Establish Connection.vi"/>
+	</Item>
 	<Item Name="Add LVCLASS-Tag.vi" Type="VI" URL="../Add LVCLASS-Tag.vi"/>
 	<Item Name="Boolean String to Boolean.vi" Type="VI" URL="../Boolean String to Boolean.vi"/>
 	<Item Name="Boolean to Boolean String.vi" Type="VI" URL="../Boolean to Boolean String.vi"/>
