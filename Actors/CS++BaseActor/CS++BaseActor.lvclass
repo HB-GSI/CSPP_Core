@@ -272,11 +272,11 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 		<Item Name="Polling Interval.vi" Type="VI" URL="../Polling Interval.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;T!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!L%U.4+SN#98.F17.U&lt;X)O&lt;(:M;7)61V-L+U*B=W6"9X2P=CZM&gt;G.M98.T!"&amp;$5SML1G&amp;T:5&amp;D&gt;'^S)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"V!'A!"!!)!!1!15'^M&lt;'FO:S"*&lt;H2F=H:B&lt;!!!2E"Q!"Y!!#M41V-L+U*B=W6"9X2P=CZM&gt;GRJ9B6$5SML1G&amp;T:5&amp;D&gt;'^S,GRW9WRB=X-!%%.4+SN#98.F17.U&lt;X)A;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!)!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!E!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">34082832</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">8400912</Property>
 		</Item>
 		<Item Name="Polling.vi" Type="VI" URL="../Polling.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;-!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!%:!=!!?!!!L%U.4+SN#98.F17.U&lt;X)O&lt;(:M;7)61V-L+U*B=W6"9X2P=CZM&gt;G.M98.T!"&amp;$5SML1G&amp;T:5&amp;D&gt;'^S)'^V&gt;!!71&amp;!!!Q!!!!%!!AB&amp;=H*P=C"*&lt;A!!2E"Q!"Y!!#M41V-L+U*B=W6"9X2P=CZM&gt;GRJ9B6$5SML1G&amp;T:5&amp;D&gt;'^S,GRW9WRB=X-!%%.4+SN#98.F17.U&lt;X)A;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!A!!!!!</Property>
@@ -366,6 +366,15 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342713872</Property>
 		</Item>
+		<Item Name="Polling Start Core.vi" Type="VI" URL="../Polling Start Core.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%`!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!%:!=!!?!!!L%U.4+SN#98.F17.U&lt;X)O&lt;(:M;7)61V-L+U*B=W6"9X2P=CZM&gt;G.M98.T!"&amp;$5SML1G&amp;T:5&amp;D&gt;'^S)'^V&gt;!!71&amp;!!!Q!!!!%!!AB&amp;=H*P=C"*&lt;A!!2E"Q!"Y!!#M41V-L+U*B=W6"9X2P=CZM&gt;GRJ9B6$5SML1G&amp;T:5&amp;D&gt;'^S,GRW9WRB=X-!%%.4+SN#98.F17.U&lt;X)A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		</Item>
 		<Item Name="Polling Core.vi" Type="VI" URL="../Polling Core.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%`!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!%:!=!!?!!!L%U.4+SN#98.F17.U&lt;X)O&lt;(:M;7)61V-L+U*B=W6"9X2P=CZM&gt;G.M98.T!"&amp;$5SML1G&amp;T:5&amp;D&gt;'^S)'^V&gt;!!71&amp;!!!Q!!!!%!!AB&amp;=H*P=C"*&lt;A!!2E"Q!"Y!!#M41V-L+U*B=W6"9X2P=CZM&gt;GRJ9B6$5SML1G&amp;T:5&amp;D&gt;'^S,GRW9WRB=X-!%%.4+SN#98.F17.U&lt;X)A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#1!!!!!!%!#!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -374,6 +383,15 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342714384</Property>
+		</Item>
+		<Item Name="Polling Stop Core.vi" Type="VI" URL="../Polling Stop Core.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%`!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!%:!=!!?!!!L%U.4+SN#98.F17.U&lt;X)O&lt;(:M;7)61V-L+U*B=W6"9X2P=CZM&gt;G.M98.T!"&amp;$5SML1G&amp;T:5&amp;D&gt;'^S)'^V&gt;!!71&amp;!!!Q!!!!%!!AB&amp;=H*P=C"*&lt;A!!2E"Q!"Y!!#M41V-L+U*B=W6"9X2P=CZM&gt;GRJ9B6$5SML1G&amp;T:5&amp;D&gt;'^S,GRW9WRB=X-!%%.4+SN#98.F17.U&lt;X)A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1074541056</Property>
 		</Item>
 		<Item Name="Handle Error.vi" Type="VI" URL="../Handle Error.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!""!)1NT&gt;'^Q)'&amp;D&gt;'^S0Q"'1(!!(A!!+R.$5SML1G&amp;T:5&amp;D&gt;'^S,GRW&lt;'FC&amp;5.4+SN#98.F17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!21V-L+U*B=W6"9X2P=C"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"'1(!!(A!!+R.$5SML1G&amp;T:5&amp;D&gt;'^S,GRW&lt;'FC&amp;5.4+SN#98.F17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!11V-L+U*B=W6"9X2P=C"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!*!!!!!!</Property>
