@@ -45,4 +45,7 @@ CS++PVProxy.lvclass can not typecast messages to CS++PVUpdate Msg.lvclass. Messa
 <nierror code="-8988">
 CS++PVProxy.lvclass: No CS++PVUpdate Msg.lvclass specified. Stopping proxy.
 </nierror>
+<nierror code="-8987">
+CS++BaseActor.lvclass: Afer Launch Init.vi was already called before. It can be called only once during livetime.
+</nierror>
 </nidocument>
