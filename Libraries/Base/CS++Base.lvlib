@@ -70,6 +70,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Item Name="FGV PV Monitors.vi" Type="VI" URL="../FGV PV Monitors.vi"/>
 			<Item Name="FGV PV Protocols.vi" Type="VI" URL="../FGV PV Protocols.vi"/>
 		</Item>
+		<Item Name="FGV Read All PV Protocols.vi" Type="VI" URL="../FGV Read All PV Protocols.vi"/>
 		<Item Name="FGV Read Central Message Logger.vi" Type="VI" URL="../FGV Read Central Message Logger.vi"/>
 		<Item Name="FGV Read PV Monitors.vi" Type="VI" URL="../FGV Read PV Monitors.vi"/>
 		<Item Name="FGV Read PV Protocols.vi" Type="VI" URL="../FGV Read PV Protocols.vi"/>
