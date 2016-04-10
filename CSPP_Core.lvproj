@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="14008000">
+<Project Type="Project" LVVersion="15008000">
 	<Property Name="CCSymbols" Type="Str">CSPP_BuildContent,CSPP_Core;</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str">This LabVIEW project "CS++.lvproj" is used to develop the successor of the CS Framework.
@@ -23,13 +23,6 @@ Sofern nicht durch anwendbare Rechtsvorschriften gefordert oder in schriftlicher
 
 Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind dem Lizenztext zu entnehmen.</Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
-	<Property Name="varPersistentID:{04AC9F37-DD18-48BD-B223-AF84A89168DB}" Type="Ref">/My Computer/CSPP_Core/CSPP-Core-SV.lvlib/myDeviceActor_ErrorMessage</Property>
-	<Property Name="varPersistentID:{0963886C-E732-4DDD-BE77-462964BEA978}" Type="Ref">/My Computer/CSPP_Core/CSPP-Core-SV.lvlib/myDeviceActor_ErrorCode</Property>
-	<Property Name="varPersistentID:{3408C9DB-21DD-4B05-ACFD-692E46CF657F}" Type="Ref">/My Computer/CSPP_Core/CSPP-Core-SV.lvlib/myDeviceActor_DriverRevision</Property>
-	<Property Name="varPersistentID:{37705970-1CA9-4391-A89D-5F8F5BDD4747}" Type="Ref">/My Computer/CSPP_Core/CSPP-Core-SV.lvlib/myDeviceActor_SelftestResultCode</Property>
-	<Property Name="varPersistentID:{49391384-2B72-49D8-B45F-21BF7BC923A3}" Type="Ref">/My Computer/CSPP_Core/CSPP-Core-SV.lvlib/myDeviceActor_ResourceName</Property>
-	<Property Name="varPersistentID:{499151EA-BA3D-47B1-B90B-A3109C4EFEA2}" Type="Ref">/My Computer/CSPP_Core/CSPP-Core-SV.lvlib/myDeviceActor_SelftestResultMessage</Property>
-	<Property Name="varPersistentID:{C2C49B91-0822-450C-8DA4-5CFB2DFBC977}" Type="Ref">/My Computer/CSPP_Core/CSPP-Core-SV.lvlib/myDeviceActor_FirmwareRevision</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
@@ -91,6 +84,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
+				<Item Name="Batch Msg.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/ActorFramework/Batch Msg/Batch Msg.lvclass"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
@@ -128,10 +122,19 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
+				<Item Name="Time-Delay Override Options.ctl" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delay Override Options.ctl"/>
+				<Item Name="Time-Delayed Send Message Core.vi" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delayed Send Message Core.vi"/>
+				<Item Name="Time-Delayed Send Message.vi" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delayed Send Message.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="usereventprio.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/usereventprio.ctl"/>
+				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Send Launch Accosiated GUI.vi" Type="VI" URL="../Actors/CS++BaseActor Messages/Launch Associated GUI Msg/Send Launch Accosiated GUI.vi"/>
+			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
+			<Item Name="CS++CoreGUIContent.vi" Type="VI" URL="../CS++CoreGUIContent.vi"/>
+			<Item Name="CS++DSMonitor.lvlib" Type="Library" URL="../Actors/CS++DSMonitor/CS++DSMonitor.lvlib"/>
+			<Item Name="CS++PVProxy.lvlib" Type="Library" URL="../Actors/CS++PVProxy/CS++PVProxy.lvlib"/>
+			<Item Name="CS++SharedVariables.lvlib" Type="Library" URL="../Classes/CS++ProcessVariables/SVConnection/CS++SharedVariables.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
