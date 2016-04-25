@@ -48,4 +48,7 @@ CS++PVProxy.lvclass: No CS++PVUpdate Msg.lvclass specified. Stopping proxy.
 <nierror code="-8987">
 CS++BaseActor.lvclass: Afer Launch Init.vi was already called before. It can be called only once during livetime.
 </nierror>
+<nierror code="-8986">
+At least one configuration item ignored. (#Comment)
+</nierror>
 </nidocument>
