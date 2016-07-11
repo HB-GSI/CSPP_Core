@@ -63,6 +63,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Item Name="Open PV Connection.vi" Type="VI" URL="../SVConnection/Open PV Connection.vi"/>
 	<Item Name="Open PV Connections.vi" Type="VI" URL="../SVConnection/Open PV Connections.vi"/>
 	<Item Name="PV-URL 2 PVConnectionObj.vi" Type="VI" URL="../PV-URL 2 PVConnectionObj.vi"/>
+	<Item Name="Create PVConnections.vi" Type="VI" URL="../Create PVConnections.vi"/>
 	<Item Name="PV Type.ctl" Type="VI" URL="../PV Type.ctl"/>
 	<Item Name="AE Type.ctl" Type="VI" URL="../AE Type.ctl"/>
 	<Item Name="AE.lvclass" Type="LVClass" URL="../AlarmEvent/AE.lvclass"/>
