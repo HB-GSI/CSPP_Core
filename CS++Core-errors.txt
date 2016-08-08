@@ -51,4 +51,7 @@ CS++BaseActor.lvclass: Afer Launch Init.vi was already called before. It can be 
 <nierror code="-8986">
 At least one configuration item ignored. (#Comment)
 </nierror>
+<nierror code="-8985">
+Channel index out of range.
+</nierror>
 </nidocument>
