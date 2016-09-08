@@ -55,6 +55,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 		<Item Name="CS++StartActor.lvlib:CS++StartActor.lvclass" Type="Friended Library" URL="../../../Actors/CS++StartActor/CS++StartActor.lvclass"/>
 		<Item Name="CS++ObjectManager.lvlib:CS++ObjectManager.lvclass" Type="Friended Library" URL="../../../../CSPP_ObjectManager/CS++ObjectManager/CS++ObjectManager.lvclass"/>
 		<Item Name="CS++BaseActor.lvlib:CS++BaseActor.lvclass" Type="Friended Library" URL="../../../Actors/CS++BaseActor/CS++BaseActor.lvclass"/>
+		<Item Name="CS++SeqEditor.lvlib:CS++SeqEditor.lvclass" Type="Friended Library" URL="../../../../CSPP_Seq/CS++SeqEditor/CS++SeqEditor/CS++SeqEditor.lvclass"/>
 		<Item Name="CS++ProcessVariables.lvlib:Add PV Monitors to FGV.vi" Type="Friended VI" URL="../../../Classes/CS++ProcessVariables/Add PV Monitors to FGV.vi"/>
 		<Item Name="CS++ProcessVariables.lvlib:Add PV Protocols to FGV.vi" Type="Friended VI" URL="../../../Classes/CS++ProcessVariables/Add PV Protocols to FGV.vi"/>
 		<Item Name="CS++RT-Main.vi" Type="Friended VI" URL="../../../../CSPP_RT/CS++RT-Main.vi"/>
