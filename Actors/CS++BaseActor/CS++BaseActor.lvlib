@@ -63,6 +63,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 		<Item Name="Polling Start Stop Msg.lvclass" Type="LVClass" URL="../../CS++BaseActor Messages/Polling Start Stop Msg/Polling Start Stop Msg.lvclass"/>
 		<Item Name="Launch PVProxy Msg.lvclass" Type="LVClass" URL="../../CS++BaseActor Messages/Launch PVProxy Msg/Launch PVProxy Msg.lvclass"/>
 		<Item Name="Stop PVProxy Msg.lvclass" Type="LVClass" URL="../../CS++BaseActor Messages/Stop PVProxy Msg/Stop PVProxy Msg.lvclass"/>
+		<Item Name="Polling Iterations Msg.lvclass" Type="LVClass" URL="../../CS++BaseActor Messages/Write Polling Iterations Msg/Polling Iterations Msg.lvclass"/>
 	</Item>
 	<Item Name="CS++BaseActor.lvclass" Type="LVClass" URL="../CS++BaseActor.lvclass"/>
 </Library>
