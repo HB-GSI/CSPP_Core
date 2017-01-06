@@ -6,6 +6,7 @@ Collection of errors generated within the CS++Core class libraries.
 
 
 
+
 <nifamily familyname="CS++Core-Errors" displayname="CS++Core-Errors">
 </nifamily>
 </nicomment>
@@ -53,5 +54,8 @@ At least one configuration item ignored. (#Comment)
 </nierror>
 <nierror code="-8985">
 Channel index out of range.
+</nierror>
+<nierror code="-8984">
+Variant attribute name is empty.
 </nierror>
 </nidocument>
