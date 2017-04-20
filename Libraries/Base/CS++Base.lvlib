@@ -84,4 +84,5 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 		<Item Name="FGV Action.ctl" Type="VI" URL="../FGV Action.ctl"/>
 		<Item Name="Severity.ctl" Type="VI" URL="../Severity.ctl"/>
 	</Item>
+	<Item Name="Global Debug Level.vi" Type="VI" URL="../Global Debug Level.vi"/>
 </Library>
