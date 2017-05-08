@@ -71,7 +71,10 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Item Name="PV" Type="Folder">
 		<Item Name="PV Establish Connection.vi" Type="VI" URL="../PV Establish Connection.vi"/>
 	</Item>
-	<Item Name="Web" Type="Folder"/>
+	<Item Name="Web" Type="Folder">
+		<Item Name="WebPublishing-DropIn.vi" Type="VI" URL="../WebPublishing-DropIn.vi"/>
+		<Item Name="WebServer-BaseURL.vi" Type="VI" URL="../WebServer-BaseURL.vi"/>
+	</Item>
 	<Item Name="Add LVCLASS-Tag.vi" Type="VI" URL="../Add LVCLASS-Tag.vi"/>
 	<Item Name="Boolean String to Boolean.vi" Type="VI" URL="../Boolean String to Boolean.vi"/>
 	<Item Name="Boolean to Boolean String.vi" Type="VI" URL="../Boolean to Boolean String.vi"/>
@@ -87,6 +90,4 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Item Name="Send Msg to MessageLogger.vi" Type="VI" URL="../Send Msg to MessageLogger.vi"/>
 	<Item Name="String 2 String Array.vi" Type="VI" URL="../String 2 String Array.vi"/>
 	<Item Name="String Array 2 String.vi" Type="VI" URL="../String Array 2 String.vi"/>
-	<Item Name="WebPublishing-DropIn.vi" Type="VI" URL="../WebPublishing-DropIn.vi"/>
-	<Item Name="WebServer-BaseURL.vi" Type="VI" URL="../WebServer-BaseURL.vi"/>
 </Library>
