@@ -11,6 +11,9 @@
 	<Property Name="Enable Data Logging" Type="Bool">true</Property>
 	<Property Name="NI.Lib.Description" Type="Str">This library contains the CS++ base class for actors.
 
+Conditional Disable Symbols:
+WebpubLaunchBrowser={Default: Do not launch a browser, IE: Launch MS Internet Explorer}
+
 Author: H.Brand@gsi.de, D.Neidherr@gsi.de
 
 Copyright 2013  GSI Helmholtzzentrum für Schwerionenforschung GmbH
@@ -64,6 +67,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 		<Item Name="Launch PVProxy Msg.lvclass" Type="LVClass" URL="../../CS++BaseActor Messages/Launch PVProxy Msg/Launch PVProxy Msg.lvclass"/>
 		<Item Name="Stop PVProxy Msg.lvclass" Type="LVClass" URL="../../CS++BaseActor Messages/Stop PVProxy Msg/Stop PVProxy Msg.lvclass"/>
 		<Item Name="Polling Iterations Msg.lvclass" Type="LVClass" URL="../../CS++BaseActor Messages/Write Polling Iterations Msg/Polling Iterations Msg.lvclass"/>
+		<Item Name="Display WebPubURL Msg.lvclass" Type="LVClass" URL="../../CS++BaseActor Messages/Display WebPubURL Msg/Display WebPubURL Msg.lvclass"/>
 	</Item>
 	<Item Name="CS++BaseActor.lvclass" Type="LVClass" URL="../CS++BaseActor.lvclass"/>
 </Library>

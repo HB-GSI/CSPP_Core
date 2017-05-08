@@ -54,6 +54,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 		<Item Name="Launch Start Actors Msg.lvclass" Type="LVClass" URL="../../CS++StartActor Messages/Launch Start Actors Msg/Launch Start Actors Msg.lvclass">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
+		<Item Name="Read Actor List Msg.lvclass" Type="LVClass" URL="../../CS++StartActor Messages/Read Actor List Msg/Read Actor List Msg.lvclass"/>
 	</Item>
 	<Item Name="CS++StartActor.lvclass" Type="LVClass" URL="../CS++StartActor.lvclass"/>
 	<Item Name="Launch CS++StartActor.vi" Type="VI" URL="../Launch CS++StartActor.vi"/>
