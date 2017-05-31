@@ -11,6 +11,9 @@
 	<Property Name="Enable Data Logging" Type="Bool">true</Property>
 	<Property Name="NI.Lib.Description" Type="Str">This library contains VI used by many CS++ classes and actors.
 
+Conditional Disable Symbols:
+CSPP_WebpubLaunchBrowser = {Default: "", IE: InternetExplorer}
+
 Author: H.Brand@gsi.de, D.Neidherr@gsi.de
 
 Copyright 2013  GSI Helmholtzzentrum für Schwerionenforschung GmbH

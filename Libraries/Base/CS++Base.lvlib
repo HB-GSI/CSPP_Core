@@ -61,6 +61,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 		<Item Name="CS++RT-Main.vi" Type="Friended VI" URL="../../../../CSPP_RT/CS++RT-Main.vi"/>
 		<Item Name="CS++BaseClasses.lvlib:CS++MessageLogger.lvclass:Initialize.vi" Type="Friended VI" URL="../../../Classes/CS++BaseClasses/MessageLogger/Initialize.vi"/>
 		<Item Name="CS++Utilities.lvlib:Cs++Actor exist.vi" Type="Friended VI" URL="../../Utilities/Cs++Actor exist.vi"/>
+		<Item Name="CS++PVProxy.lvlib:CS++PVProxy.lvclass:After Launch Init Core.vi" Type="Friended VI" URL="../../../Actors/CS++PVProxy/After Launch Init Core.vi"/>
 	</Item>
 	<Item Name="FGV" Type="Folder">
 		<Item Name="FGVs" Type="Folder">
